@@ -1,5 +1,5 @@
 from ctypes import pythonapi
-
+#sample codes
 course= "Malayalam"
 #v=set(course)
 #print(v)
